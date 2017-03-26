@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">京东商城</string>
+
+    <string name="homeTabHomeTxt">主页</string>
+    <string name="homeTabHotTxt">热卖</string>
+    <string name="homeTabTypeTxt">分类</string>
+    <string name="homeTabCarTxt">购物车</string>
+    <string name="homeTabMyTxt">我的</string>
+    
+    
+    <string name="buy_now">立即购买</string>
+</resources>
